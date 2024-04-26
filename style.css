@@ -1,0 +1,125 @@
+.logo {
+    float: left;
+    display: block;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    margin-top: 3vw;
+    width: 8vw;
+  }
+#select{
+    color:#FF964E;
+    font-weight: bold;
+}
+#nav-a{
+    margin-left: 1vw;
+    font-weight: bold;
+}
+#nav-a a:hover{
+    color:#FF964E;
+}
+.bg-color{
+    margin-left: 5.5vw;
+    margin-right: 1vw;
+    background: rgb(117,8,7);
+
+    background: linear-gradient(360deg, #09040f, rgba(0, 0, 0, .5)), linear-gradient(140deg, #ee0c0c, #ff9659 22%, #d73802 38%, #2b2b2b 57%, #011c34 75%, #000);
+}    
+#home{
+    margin-top:2.5vw;
+
+}
+#titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 80px;
+}
+
+#desc{
+    color: #F79156;
+    font-size: 1vw;
+    width: 70%;
+}
+#curso{
+    color: #F79156;
+
+}
+#but{
+    width: 95%;
+    padding: 0.9vw;
+    background-color: #D93600;
+    font-weight: bold;
+    border: none;
+    font-size: .8vw;
+}
+#but:hover{
+    transition: 500ms ease-in-out;
+    background-color: #EE0D0C;
+    margin-top: -0.25vw;
+    box-shadow: -2.5px 1px 5px 5px #1E0D1E;
+}
+.img-whats{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    bottom: 40px;
+    right: 40px;
+    border-radius: 50px;
+}
+.segunda-parte{
+    margin-top: 17vh;
+    margin-left: 12.7vw;
+}
+#torne{
+    color: red;
+    font-size: 16px;
+    margin-bottom: 1.5vh;
+}
+#sub-titulo{
+    font-size: 60px;
+}
+#desc-2{
+    color: #F79156;
+}
+.dark-card{
+    margin-top: 3vh;
+    padding: 32px;
+    border: 1px solid #28263a;
+    border-radius: 8px;
+    background-color: #181628;
+}
+.textin{
+    margin-bottom: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    font-size: 24px;
+    line-height: 100%;
+    font-weight: 700;
+}
+.parag{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ff9659;
+    font-size: 16px;
+    line-height: 150%;
+    font-weight: 500;
+}
+.Fotos{
+    max-width: 50%;
+    vertical-align: middle;
+    display: inline-block;
+}
+.circle{
+    display: flex;
+    width: 80px;
+    height: 80px;
+    margin-bottom: 24px;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-radius: 100px;
+    background-color: #2b2b2b;
+}
+
+
